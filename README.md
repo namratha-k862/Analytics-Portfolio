@@ -20,18 +20,4 @@ https://app.powerbi.com/view?r=eyJrIjoiZTJkNTgxMWUtNmZjMi00OTAyLWE4MDEtMjgyZWJiZ
 **Adventures Work**
 https://public.tableau.com/views/Adventureworks_Project_Dashboard_17355514020220/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-**Portfolio Projects**
-
-Following are my projects in SQL, Power BI, Tableau & Excel:
-**You can also look at my LinkedIn:
-Namratha_linkedIn**
-
-**Bank Loan Analytics Project**
-
-See on Power BI Desktop:  **Dashboard**
-
-•	Analyzed bank loan data to identify trends, patterns, and potential risks related to loan approvals, repayments, and defaults.
-•	Cleaned, transformed, and visualized data using Python, SQL, and Excel to provide actionable insights for improving loan approval processes.
-•	Generated detailed reports and dashboards to help management make data-driven decisions on credit policies and risk management.
-•	Presented findings to stakeholders, highlighting key metrics and suggesting strategies to reduce default rates and optimize loan offerings.
 
