@@ -20,4 +20,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZTJkNTgxMWUtNmZjMi00OTAyLWE4MDEtMjgyZWJiZ
 **Adventures Work**
 https://public.tableau.com/views/Adventureworks_Project_Dashboard_17355514020220/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+**Hghcloud Airline**
+https://app.powerbi.com/view?r=eyJrIjoiMjkzYzBhYjgtNjBhYi00MzQyLWI5ZmYtOTQyOTM2MGFmZGQyIiwidCI6IjE4MGU0OTAxLWVkZjktNDdhMC05NzU2LTA1OWJlMmZiMWNjMSJ9&pageName=fa56935cb3b6830c3206
+
 
